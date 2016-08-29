@@ -1,0 +1,15 @@
+
+body {
+
+	background-color: #ffffff;
+}
+
+
+#container {
+	background-color: #aaaaaa;
+	display: block;
+	position: center;
+	margin-top: 30%;
+	padding: 100px;
+}
+
